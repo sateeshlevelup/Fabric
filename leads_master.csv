@@ -1,0 +1,11 @@
+lead_id,lead_date,source,platform,campaign,student_name,phone,email,city,course_interest
+L001,2026-01-05,Facebook,Meta Ads,Power BI Jan,Arjun Reddy,9000011111,arjun@gmail.com,Hyderabad,Power BI
+L002,2026-01-05,Instagram,Meta Ads,Data Eng Jan,Priya Sharma,9000011112,priya@gmail.com,Bangalore,Azure Data Engineering
+L003,2026-01-06,Google,Google Ads,DP700 Search,Rahul Verma,9000011113,rahul@gmail.com,Pune,Microsoft Fabric
+L004,2026-01-06,WhatsApp,Organic,Referral,Sneha Iyer,9000011114,sneha@gmail.com,Chennai,Power BI
+L005,2026-01-07,Facebook,Meta Ads,DE Combo,Vikram Singh,9000011115,vikram@gmail.com,Delhi,AWS Data Engineering
+L006,2026-01-07,Instagram,Organic,Profile Visit,Anjali Mehta,9000011116,anjali@gmail.com,Mumbai,Power BI
+L007,2026-01-08,Google,Google Ads,Databricks Search,Ramesh Kumar,9000011117,ramesh@gmail.com,Hyderabad,Databricks
+L008,2026-01-08,WhatsApp,Organic,Website Chat,Neha Jain,9000011118,neha@gmail.com,Indore,Azure Fabric
+L009,2026-01-09,Facebook,Meta Ads,Feb Campaign,Suresh Rao,9000011119,suresh@gmail.com,Bangalore,Power BI
+L010,2026-01-09,Instagram,Meta Ads,Analytics Lead,Divya Nair,9000011120,divya@gmail.com,Kochi,Data Analytics
