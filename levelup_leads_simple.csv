@@ -1,0 +1,21 @@
+LeadID,LeadDate,LeadSource,LeadName,PhoneNumber,EmailAddress,CourseInterested,LeadStatus,DemoAttended,DemoDate,SalesAgent,ConversionDate,Revenue,City,AgeGroup
+L001,2024-11-01,Facebook,Rajesh Kumar,9876543210,rajesh.k@email.com,Azure Data Engineering,Converted,Yes,2024-11-03,Priya Sharma,2024-11-05,35000,Hyderabad,25-30
+L003,2024-11-01,Google Ads,Arun Patel,9876543212,arun.p@email.com,Python for Data Science,Converted,Yes,2024-11-02,Priya Sharma,2024-11-06,25000,Pune,30-35
+L005,2024-11-02,LinkedIn,Vikram Shah,9876543214,vikram.s@email.com,Azure Data Engineering,Converted,Yes,2024-11-04,Arun Kumar,2024-11-08,35000,Mumbai,35-40
+L006,2024-11-02,Facebook,Anjali Nair,9876543215,anjali.n@email.com,Power BI + Fabric,Converted,Yes,2024-11-03,Priya Sharma,2024-11-07,20000,Hyderabad,20-25
+L007,2024-11-03,Referral,Karthik Reddy,9876543216,karthik.r@email.com,GCP Data Engineer,Converted,Yes,2024-11-04,Priya Sharma,2024-11-09,30000,Bangalore,30-35
+L010,2024-11-04,Facebook,Lakshmi Rao,9876543219,lakshmi.r@email.com,Python for Data Science,Converted,Yes,2024-11-06,Priya Sharma,2024-11-10,25000,Hyderabad,25-30
+L012,2024-11-04,WhatsApp,Meera Singh,9876543221,meera.s@email.com,AWS Solutions Architect,Converted,Yes,2024-11-05,Priya Sharma,2024-11-11,28000,Mumbai,25-30
+L013,2024-11-05,LinkedIn,Arjun Verma,9876543222,arjun.v@email.com,Azure Data Engineering,Converted,Yes,2024-11-07,Vikram Singh,2024-11-12,35000,Pune,30-35
+L014,2024-11-05,Referral,Kavya Krishnan,9876543223,kavya.k@email.com,Power BI + Fabric,Converted,Yes,2024-11-08,Priya Sharma,2024-11-13,20000,Bangalore,20-25
+L017,2024-11-06,Google Ads,Manoj Kumar,9876543226,manoj.k@email.com,Azure Data Engineering,Converted,Yes,2024-11-08,Priya Sharma,2024-11-14,35000,Chennai,35-40
+L018,2024-11-06,WhatsApp,Pooja Agarwal,9876543227,pooja.a@email.com,Power BI + Fabric,Converted,Yes,2024-11-09,Arun Kumar,2024-11-15,20000,Mumbai,25-30
+L020,2024-11-07,LinkedIn,Divya Nambiar,9876543229,divya.n@email.com,Azure Data Engineering,Converted,Yes,2024-11-09,Priya Sharma,2024-11-16,35000,Hyderabad,25-30
+L021,2024-11-08,Referral,Sanjay Pillai,9876543230,sanjay.p@email.com,Power BI + Fabric,Converted,Yes,2024-11-10,Priya Sharma,2024-11-17,20000,Bangalore,35-40
+L024,2024-11-09,Facebook,Rekha Bose,9876543233,rekha.b@email.com,Azure Data Engineering,Converted,Yes,2024-11-11,Priya Sharma,2024-11-18,35000,Mumbai,25-30
+L025,2024-11-09,WhatsApp,Vivek Malhotra,9876543234,vivek.m@email.com,Power BI + Fabric,Converted,Yes,2024-11-12,Arun Kumar,2024-11-19,20000,Delhi,30-35
+L027,2024-11-10,LinkedIn,Gaurav Saxena,9876543236,gaurav.s@email.com,Azure Data Engineering,Converted,Yes,2024-11-14,Priya Sharma,2024-11-20,35000,Bangalore,35-40
+L028,2024-11-11,Referral,Anita Rajan,9876543237,anita.r@email.com,Power BI + Fabric,Converted,Yes,2024-11-13,Priya Sharma,2024-11-21,20000,Kolkata,25-30
+L031,2024-11-12,Google Ads,Mohan Das,9876543240,mohan.d@email.com,Azure Data Engineering,Converted,Yes,2024-11-14,Priya Sharma,2024-11-22,35000,Mumbai,25-30
+L032,2024-11-12,WhatsApp,Shweta Khanna,9876543241,shweta.k@email.com,Power BI + Fabric,Converted,Yes,2024-11-15,Arun Kumar,2024-11-23,20000,Hyderabad,30-35
+L034,2024-11-13,LinkedIn,Aditi Srinivasan,9876543243,aditi.s@email.com,Azure Data Engineering,Converted,Yes,2024-11-15,Priya Sharma,2024-11-24,35000,Bangalore,25-30
