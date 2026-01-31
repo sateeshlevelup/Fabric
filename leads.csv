@@ -1,0 +1,11 @@
+lead_id,lead_date,lead_source,course,city,sales_person,lead_status
+L1001,2025-01-05,Facebook,AWS,Hyderabad,Rahul,Converted
+L1002,2025-01-05,Google,Azure,Bangalore,Priya,Converted
+L1003,2025-01-06,Website,Databricks,Chennai,Rahul,Not Converted
+L1004,2025-01-06,Walk-in,Azure,Hyderabad,Sneha,Converted
+L1005,2025-01-07,Facebook,GCP,Pune,Amit,Converted
+L1006,2025-01-07,Google,GenAI,Hyderabad,Priya,Converted
+L1007,2025-01-08,Website,AWS,Bangalore,Rahul,Converted
+L1008,2025-01-08,Walk-in,Databricks,Hyderabad,Sneha,Not Converted
+L1009,2025-01-09,Facebook,Azure,Chennai,Amit,Converted
+L1010,2025-01-09,Google,GCP,Pune,Priya,Not Converted
